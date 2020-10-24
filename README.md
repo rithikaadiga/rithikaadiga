@@ -21,9 +21,10 @@ My name is Rithika Adiga - Welcome to my Github profile. You'll find a mix of my
 ![Rithika's Github Stats](https://github-readme-stats.vercel.app/api?username=rithikaadiga&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithikaadiga&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rithikaadiga.rithikaadiga)
+
 
 <!--
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rithikaadiga.rithikaadiga)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rithikaadiga&show_icons=true&theme=radical"/>
 -->
 
