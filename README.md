@@ -1,4 +1,5 @@
-Welcome to my Github profile. You'll find a mix of my machine learning projects from my university classes, some experiments with the things that I'm learning, and then some! :) 
+### Hiya!
+My name is Rithika Adiga - Welcome to my Github profile. You'll find a mix of my machine learning projects from my university classes, some experiments with the things that I'm learning, and then some! :) 
 
 <!-- Feel free to look around - if something sticks out, reach me on rithika_adiga@outlook.com and we can have a chat!
 -->
